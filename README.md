@@ -62,4 +62,4 @@ EduCraft is deployed and accessible online. You can check out the live version h
 ![image](https://github.com/user-attachments/assets/e86109ea-3a0e-4341-928b-de51b775ba03)
 
 
-Thank You ! You can appriciate my work by staring my REPOSITORIES.
+Thank You ! You can appriciate my work by staring my REPOSITORIES...
